@@ -146,7 +146,7 @@ agent.run(diagnostic_prompt)
 
 ![](./assets/1.PNG)
 
-![](./assets/2.PNG)
+![](./assets/2.png)
 
 # SUGGESTED REPAIR
 
