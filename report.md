@@ -143,7 +143,10 @@ agent.run(diagnostic_prompt)
    ```bash
    echo "[HEX_DATA]" | xxd -r -p
    ```
-![](https://img.dkdun.cn/v1/2026/7/ea24e3ecefd4331c.png)
+
+![](./assets/1.PNG)
+
+![](./assets/2.PNG)
 
 # SUGGESTED REPAIR
 
